@@ -26,4 +26,3 @@ public class ControlTwoMotorsDirection {
         gpio.shutdown();
     }
 }
-//fin
